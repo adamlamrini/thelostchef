@@ -47,8 +47,20 @@ To run my code locally, and ensure that it perfectly works, the user should down
 
 # Credits
 
+#Contents
+
+sushi recipe : https://www.chopstickchronicles.com/rolling-perfect-makizushi/
+
+chicken tajine recipe : https://www.thespruceeats.com/chicken-tagine-with-chickpeas-and-raisins-2394713
+
+spanish croquettes : https://food.ndtv.com/recipe-spanish-croquettes-252709
+
 # media
-No media was used in this project.
+sushi image : https://cdn.pixabay.com/photo/2017/10/15/11/41/sushi-2853382_960_720.jpg
+
+chicken tajine image : https://es1-ladleandspricell.netdna-ssl.com/wp-content/uploads/2013/12/tagine-chicken-1.jpg
+
+spanish croquettes image : https://recipes.timesofindia.com/thumb/67541356.cms?imgsize=410710&width=800&height=800
 
 # Acknowledgments
 This app is inspired by the flask app made by Traversy Media on Youtube
